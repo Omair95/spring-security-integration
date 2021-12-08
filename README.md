@@ -1,1 +1,1 @@
-An example implementation of Spring Security.
+Spring Security implementation with JWTs.
